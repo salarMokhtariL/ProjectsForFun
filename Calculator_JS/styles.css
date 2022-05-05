@@ -54,4 +54,5 @@
   
   .output .current-operand {
     color: white;
-    font-size
+    font-size: 2.5rem;
+  }
